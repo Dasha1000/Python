@@ -1,6 +1,7 @@
 # 📂 FileSystem Organizer
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-https://img.shields.io/github/license/Dasha1000/Python?style=for-the-badge
+![License](https://img.shields.io/github/license/Dasha1000/Python?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
 > Автоматический скрипт на Python для наведения порядка в папке загрузок.
 
 ---
