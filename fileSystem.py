@@ -39,7 +39,11 @@ for file in os.listdir(path):
 
 
 if platform.system() == "Windows":
-   os.startfile(path)  
+   os.startfile(path)
+elif platform.system() == "Darwin": # macOS
+    subprocess.Popen(["open", path])
+else: # Linux
+    subprocess.Popen(["xdg-open", path])
 
 
 
