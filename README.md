@@ -22,5 +22,6 @@
 ### 📖 Инструкция по запуску
 
 1. **Клонируйте репозиторий:**
-   ```bash
-   git clone [https://github.com/ВАШ_НИК/ИМЯ_РЕПО.git](https://github.com/ВАШ_НИК/ИМЯ_РЕПО.git)
+  ```bash
+git clone https://github.com/Dasha1000/Python.git
+```
